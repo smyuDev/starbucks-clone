@@ -15,12 +15,23 @@ A simple clone of the Starbucks Korea website built using HTML, CSS, and JavaScr
 - JavaScript (Vanilla)
 
 ## 📂 폴더 구조
-starbucks-clone/
-├── css/
-├── images/
-├── js/
-├── index.html
-└── README.md
+```bash
+starbucks-clone/ 
+├── css/                     # 스타일 시트 폴더 
+│   └── main.css             # 전체 레이아웃 및 애니메이션 CSS 
+│ <br/>
+├── images/                  # 사용된 이미지 리소스 
+│   ├── badge1.png <br/>
+│   ├── badge2.png <br/>
+│   ├── coffee.png
+│   ├── …                    # 스타벅스 배경 및 구성 이미지들
+│
+├── js/                      # 자바스크립트 파일
+│   └── main.js              # 이벤트 핸들링 및 Swiper 설정 등
+│
+├── index.html               # 메인 페이지 (웹사이트 진입점)
+├── README.md                # 프로젝트 소개 파일
+```
 
 ## 📸 주요 기능
 
