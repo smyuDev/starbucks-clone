@@ -19,10 +19,10 @@ A simple clone of the Starbucks Korea website built using HTML, CSS, and JavaScr
 starbucks-clone/ 
 ├── css/                     # 스타일 시트 폴더 
 │   └── main.css             # 전체 레이아웃 및 애니메이션 CSS 
-│ <br/>
+│ 
 ├── images/                  # 사용된 이미지 리소스 
-│   ├── badge1.png <br/>
-│   ├── badge2.png <br/>
+│   ├── badge1.png 
+│   ├── badge2.png 
 │   ├── coffee.png
 │   ├── …                    # 스타벅스 배경 및 구성 이미지들
 │
