@@ -2,7 +2,7 @@
 
 A simple clone of the Starbucks Korea website built using HTML, CSS, and JavaScript.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ## 🚀 프로젝트 소개
 
